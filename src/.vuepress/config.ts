@@ -4,7 +4,7 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/my-blog/",
-  // dest: './dist',
+  dest: './dist',
   lang: "zh-CN",
   title: "快醒醒",
   description: "快醒醒博客",
